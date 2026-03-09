@@ -45,6 +45,15 @@ int main()
               scanf("%lf",&q);
               printf("\n%lf",pow(p,q));
               break;
+            case'f':
+              printf("Enter a number:");
+              scanf("%lf",&p);
+              printf("Enter another number:");
+              scanf("%lf",&q);
+              printf("\n%lf",sqrt(p));
+              break;
+              
+              
             default:
               printf("\n Exit");
               break;
