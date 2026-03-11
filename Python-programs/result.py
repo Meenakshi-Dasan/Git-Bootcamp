@@ -24,7 +24,7 @@ def check_pass(m1, m2, m3):
     else:
         return False
 
-mark1 = input("Enter mark 1: ")
+mark1 = int(input("Enter mark 1: "))
 mark2 = input("Enter mark 2: ")
 mark3 = input("Enter mark 3: ")
 
