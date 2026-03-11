@@ -44,6 +44,14 @@ int main()
     scanf("%f",&y);
     printf("\n%0.2f",pow(x,y));
     break;
+    case 'f':
+    printf("Enter first number:");
+    scanf("%f",&x);
+    printf("Enter second number:");
+    scanf("%f",&y);
+    printf("\n%0.2f",sqrt(x));
+    printf("\n%0.2f",sqrt(y));
+    break;
     default:
         printf("Exit");
     break;
