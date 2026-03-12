@@ -6,7 +6,7 @@ int main()
  {
   char w;
   printf("\nEnter operation:");
-  scanf("%f",&w);
+  scanf("%c",&w);
   switch(w)
   {
     case 'a':
