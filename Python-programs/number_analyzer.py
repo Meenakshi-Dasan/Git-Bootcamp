@@ -5,5 +5,7 @@ else:
     print("Odd number")
 sq=n*n
 print("Square of the number:",sq)
+cube=n*n*n
+print("Cube of the number:",cube)
 
 
