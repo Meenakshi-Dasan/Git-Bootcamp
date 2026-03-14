@@ -32,6 +32,10 @@ int main()
         case 6:
         printf("June");
         break;
+        case 7:
+        printf("July");
+        break;
+
     }
     
 
