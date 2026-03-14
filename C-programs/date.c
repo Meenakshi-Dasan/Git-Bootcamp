@@ -37,7 +37,11 @@ int main()
         break;
         case 8:
         printf("August");
+        break; 
+        case 9:
+        printf("September");
         break;
+
     }
     
 
