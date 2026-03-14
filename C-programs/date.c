@@ -17,5 +17,9 @@ int main()
         case 1:
         printf("January");
         break;
+        case 2:
+        printf("February");
+        break;
+
     }
 }
