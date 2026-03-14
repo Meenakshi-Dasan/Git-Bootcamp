@@ -40,10 +40,14 @@ int main()
         break; 
         case 9:
         printf("September");
+        break; 
+        case 10:
+        printf("October");
         break;
 
+        
     }
-    
+     
 
     
 }
