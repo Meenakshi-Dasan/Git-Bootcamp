@@ -12,4 +12,10 @@ int main()
     printf("%drd day of",d);
     else
     printf("%dth day of",d);
+    switch(m)
+    {
+        case 1:
+        printf("January");
+        break;
+    }
 }
