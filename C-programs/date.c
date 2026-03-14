@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main()
+{
+    int d,m,y;
+    printf("Enter the date(d,m,y):");
+    scanf("%d/%d/%d",&d,&m,&y);
+    if(d==1||d==21||d==31)
+    printf("%dst day of",d);
+    else if("d==2||d==22")
+    printf("%dnd day of",d);
+    else if("d==3||d==23")
+    printf("%drd day of",d);
+    else
+    printf("%dth day of",d);
+}
