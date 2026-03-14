@@ -49,10 +49,10 @@ int main()
         break;
         case 12:
         printf("December");
-        break;
-
-        
+        break;   
     }
+printf("%d",&y);
+return 0;
      
 
     
