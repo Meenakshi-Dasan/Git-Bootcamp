@@ -29,7 +29,9 @@ int main()
         case 5:
         printf("May");
         break;
-
+        case 6:
+        printf("June");
+        break;
     }
     
 
