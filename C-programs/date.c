@@ -23,6 +23,9 @@ int main()
         case 3:
         printf("March");
         break;
+        case 4:
+        printf("January");
+        break;
 
     }
 }
