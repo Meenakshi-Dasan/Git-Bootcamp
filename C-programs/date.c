@@ -43,7 +43,11 @@ int main()
         break; 
         case 10:
         printf("October");
+        break; 
+        case 11:
+        printf("November");
         break;
+
 
         
     }
